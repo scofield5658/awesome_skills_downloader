@@ -5,3 +5,4 @@ https://github.com/sanyuan0704/sanyuan-skills
 https://github.com/op7418/Humanizer-zh
 https://github.com/anthropics/skills
 https://github.com/github/awesome-copilot
+https://github.com/scofield5658/noah-project-skills
